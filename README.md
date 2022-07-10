@@ -1,15 +1,17 @@
-<!--
-  <<< Author notes: Header of the course >>>
-  Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
-  Include a 1280×640 image, course name in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Next to "About", add description & tags; disable releases, packages, & environments.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
+# Getting started with GitHub
 
-# TBD-course-name
+![github-getting-started](https://user-images.githubusercontent.com/10350960/178148072-07b01b36-cbe4-4442-b1c0-c101f459d778.png)
 
-_TBD-course-description_
+
+New to GitHub or the GitHub workflow? Then this short course if for you. This short course if made using [GitHub Skills](https://skills.github.com/) covers the following topics:
+
+1. Create a new repository using a repository template
+2. Open a new issue
+3. Create a new feature branch for the issue
+4. Make a change to the repository
+5. Open a pull request
+
+The pull request is reviewed and merged. 🎉
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -20,27 +22,27 @@ _TBD-course-description_
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0
+## Welcome to GitHub and The Mycelium Network
 
-TBD-welcome-paragraph
+- **Who is this for**: People new to GitHub or the GitHub workflow
+- **What you'll learn**: How to go from an issue to a merged pull request.
+- **What you'll do**: Add your name and a link to your GitHub profile to the README of the project.
+- **Prerequisites**: No prerequisite knowledge needed.
+- **How long**: This course should take no longer than 10-15 minutes.
 
-- **Who is this for**: TBD-audience.
-- **What you'll learn**: TBD-objective.
-- **What you'll build**: TBD-result.
-- **Prerequisites**: TBD-prerequisites.
-- **How long**: This course is TBD-step-count steps long and takes less than TBD-duration to complete.
-
-## How to start this course
-
-1. Above these instructions, right-click **Use this template** and open the link in a new tab.
+<details id="0" open>
+  <summary><h3>How to start this course</h3></summary>
+  
+  1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-endstep0-->
+  2. In the new tab, follow the prompts to create a new repository.
+   - For owner, choose your personal account or an organization to host the repository.
+   - We recommend creating a public repository.
+   ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
+   
+  3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+</details>
 
 <!--
   <<< Author notes: Step 1 >>>

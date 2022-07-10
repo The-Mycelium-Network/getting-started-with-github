@@ -47,7 +47,7 @@ As a final step you will use your new skills to open a pull request against this
   TBD-step-1-notes.
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: TBD-step-1-name</h2></summary>
 
 _Welcome to "TBD-course-name"! :wave:_

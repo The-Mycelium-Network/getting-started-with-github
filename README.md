@@ -3,24 +3,18 @@
 ![github-getting-started](https://user-images.githubusercontent.com/10350960/178148072-07b01b36-cbe4-4442-b1c0-c101f459d778.png)
 
 
-New to GitHub or the GitHub workflow? Then this short course if for you. This short course if made using [GitHub Skills](https://skills.github.com/) covers the following topics:
+New to GitHub or the GitHub workflow? 
 
-1. Create a new repository using a repository template
+Then this is the course for you. In this short course, made using [GitHub Skills](https://skills.github.com/), we will cover the following topics:
+
+1. Create a new repository using a repository template (this one)
 2. Open a new issue
 3. Create a new feature branch for the issue
 4. Make a change to the repository
 5. Open a pull request
+6. Merge the pull request. 🎉
 
-The pull request is reviewed and merged. 🎉
-
-<!--
-  <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
+As a final step you will use your new skills to open a pull request against this repository and add your name and a link to your GitHub profile. This helps you to ensure you understood the work, and demonstrates your knowledge of the basics of using GitHub.
 
 ## Welcome to GitHub and The Mycelium Network
 
